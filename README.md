@@ -2,6 +2,8 @@
 
 > This was created in one day as a showcase of Firebase and Google Translate API
 
+![Demo Picture](https://github.com/tchin25/cat-liker/blob/master/static/screencap.PNG)
+
 ## Build Setup
 
 ```bash
