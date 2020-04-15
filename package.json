@@ -1,0 +1,23 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "My outstanding Nuxt.js project",
+  "author": "Thomas Chin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/firebase": "^5.0.7",
+    "core-js": "2",
+    "firebase": "^7.14.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.0"
+  }
+}
