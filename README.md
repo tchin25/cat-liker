@@ -29,3 +29,7 @@ $ yarn dev
 # build for production and deploy
 $ yarn build && firebase deploy
 ```
+## Known Bugs 
+> These are completely fixable but this is just a showcase so I'm not spending more time on it
+- Uploading a cat with an already taken name overrides the old cat picture
+- Definitely not mobile responsive at all
